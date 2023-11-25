@@ -1,3 +1,4 @@
-text = "Python is awesome"
-words = text.split()
-print("Words:", words)
+text = "Saikumar is cloud Devops engineer"
+print(text.split())
+print(text.split("is"))
+print(text.split("cloud"))
