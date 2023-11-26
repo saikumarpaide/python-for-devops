@@ -4,6 +4,8 @@ num2 = int(input("Input Second Number :-   "))
 def addition(num1, num2):
     return num1 + num2
 
+
+
 def substraction(num1, num2):
     return num1 - num2
 
